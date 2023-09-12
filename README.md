@@ -15,7 +15,7 @@ To build the  Manhole Detection and Monitoring System, you will need the followi
 
 ## Extra libraries
 The extranal librarires used in the project.
-1. Adafrui GFX
+1. Adafruit GFX
 2. Blynk
 3. Wire
 4. ESP8266WiFi
